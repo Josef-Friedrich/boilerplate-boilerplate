@@ -9,4 +9,13 @@
 * [tex](https://github.com/Josef-Friedrich/tex-project-boilerplate): TeX / LaTeX / LuaTeX / LuaLaTeX
 * [github-actions](https://github.com/Josef-Friedrich/github-actions-boilerplate): Github Actions
 
-A collection of boilerplate files and templates for my <language> projects 
+A collection of boilerplate files and templates for my <language> projects
+
+
+# Versioning
+
+`git tag -sa v1.2.3`
+
+https://semver.org/#is-v123-a-semantic-version
+
+https://github.com/Josef-Friedrich/shell-scripts/blob/main/git-v-prefix-semver.sh
