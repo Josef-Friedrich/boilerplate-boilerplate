@@ -19,3 +19,10 @@ A collection of boilerplate files and templates for my <language> projects
 https://semver.org/#is-v123-a-semantic-version
 
 https://github.com/Josef-Friedrich/shell-scripts/blob/main/git-v-prefix-semver.sh
+
+
+# Changelog
+
+https://keepachangelog.com/en/1.1.0/
+
+git log --tags --simplify-by-decoration --pretty="format:%D %cs"
