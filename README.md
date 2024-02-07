@@ -11,7 +11,6 @@
 
 A collection of boilerplate files and templates for my <language> projects
 
-
 # Versioning
 
 `git tag -sa v1.2.3`
@@ -20,9 +19,10 @@ https://semver.org/#is-v123-a-semantic-version
 
 https://github.com/Josef-Friedrich/shell-scripts/blob/main/git-v-prefix-semver.sh
 
-
 # Changelog
 
 https://keepachangelog.com/en/1.1.0/
 
 git log --tags --simplify-by-decoration --pretty="format:%D %cs"
+
+https://github.com/pawamoy/git-changelog
