@@ -6,6 +6,7 @@
 * [js](https://github.com/Josef-Friedrich/js-boilerplate): Javascript / Typescript / Vue
 * [lua](https://github.com/Josef-Friedrich/lua-boilerplate): Lua
 * [python](https://github.com/Josef-Friedrich/python-boilerplate): Python
+* [rust](https://github.com/Josef-Friedrich/rust-boilerplate): Rust
 * [tex](https://github.com/Josef-Friedrich/tex-project-boilerplate): TeX / LaTeX / LuaTeX / LuaLaTeX
 * [github-actions](https://github.com/Josef-Friedrich/github-actions-boilerplate): Github Actions
 
