@@ -5,6 +5,7 @@
 * [engine-alpha](https://github.com/Josef-Friedrich/engine-alpha-boilerplate): Engine Alpha
 * [java](https://github.com/Josef-Friedrich/java-boilerplate): Java
 * [js](https://github.com/Josef-Friedrich/js-boilerplate): Javascript / Typescript / Vue
+* [license](https://github.com/Josef-Friedrich/license-boilerplate): License
 * [litiengine](https://github.com/Josef-Friedrich/litiengine-boilerplate): LITIengine
 * [lua](https://github.com/Josef-Friedrich/lua-boilerplate): Lua
 * [python](https://github.com/Josef-Friedrich/python-boilerplate): Python
